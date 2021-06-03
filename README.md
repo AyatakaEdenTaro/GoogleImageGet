@@ -14,6 +14,9 @@
 ![image](https://user-images.githubusercontent.com/79146720/120648348-7d499b80-c4b6-11eb-9413-d721fdc35f05.png)
 
 ## 注意点
+### 再実行するときは、取得画像をExcelから削除してください（削除しないと画像が残ります）
+![image](https://user-images.githubusercontent.com/79146720/120651432-bc2d2080-c4b9-11eb-813f-0d4cc0806cb4.png)
+
 ### 検索した結果の画像はdownloadフォルダに溜まっていきます
 ![image](https://user-images.githubusercontent.com/79146720/120648568-beda4680-c4b6-11eb-9948-d66b7d7e9e31.png)
 
